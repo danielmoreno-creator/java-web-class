@@ -1,1 +1,1 @@
-# java-web-class
+# java-web-exercises
