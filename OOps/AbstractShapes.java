@@ -1,4 +1,4 @@
-package demo;
+package OOps;
 
 abstract class AbstractShapes {
 	Shape() {
