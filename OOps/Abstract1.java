@@ -1,4 +1,4 @@
-package oppsConcept;
+package OOps;
 
 import java.util.Scanner;
 
